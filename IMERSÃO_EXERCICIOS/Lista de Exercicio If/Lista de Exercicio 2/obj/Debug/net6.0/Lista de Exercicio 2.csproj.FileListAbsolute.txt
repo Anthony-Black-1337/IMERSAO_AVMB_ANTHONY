@@ -1,0 +1,15 @@
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\bin\Debug\net6.0\Lista de Exercicio 2.exe
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\bin\Debug\net6.0\Lista de Exercicio 2.deps.json
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\bin\Debug\net6.0\Lista de Exercicio 2.runtimeconfig.json
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\bin\Debug\net6.0\Lista de Exercicio 2.dll
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\bin\Debug\net6.0\Lista de Exercicio 2.pdb
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\obj\Debug\net6.0\Lista de Exercicio 2.csproj.AssemblyReference.cache
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\obj\Debug\net6.0\Lista de Exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\obj\Debug\net6.0\Lista de Exercicio 2.AssemblyInfoInputs.cache
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\obj\Debug\net6.0\Lista de Exercicio 2.AssemblyInfo.cs
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\obj\Debug\net6.0\Lista de Exercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\obj\Debug\net6.0\Lista de Exercicio 2.dll
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\obj\Debug\net6.0\refint\Lista de Exercicio 2.dll
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\obj\Debug\net6.0\Lista de Exercicio 2.pdb
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\obj\Debug\net6.0\Lista de Exercicio 2.genruntimeconfig.cache
+C:\Users\anthony.silva\Desktop\PROJETOS\Lista de Exercicio 2\Lista de Exercicio 2\obj\Debug\net6.0\ref\Lista de Exercicio 2.dll

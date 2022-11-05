@@ -1,0 +1,61 @@
+TIPOS DE VARIAVEIS
+
+< var > é comum pode ser modificado
+
+< let > pega a variavel e utiliza somente no contexto
+
+< number > int, float, ex, 255
+
+< string > "exemplo" 'exemplo'
+
+< var obj > = {
+    id: 30,
+    nome: aaa
+}
+< arr > ["lista", "de", "elementos"]
+
+var numero = 1;
+
+// compara normal
+
+if(numero == "1")
+{
+    alert("== compara apenas os valores");
+}
+
+// compara restrita (compara valores e tipos das variaveis)
+
+var mensagem;
+
+if(numero === "1") //resultado: false
+{
+    mensagem = "Nunca executa";
+}else{
+    mensagem  = "Number é diferente de string com o ===";
+}
+
+
+// condição ? se verdadeiro : se false ;
+
+var x = (numero === "1") ? "Nunca executa" : "Number é diferente de String com o  ===";
+
+// FOR -  executa um laço um determinado numero e vezes 
+
+var pessoas = ["João", "José", "Maria", "Sebastião", "Antônio"];
+
+for (var i = 0; i< pessoas.length; i++)
+{
+    alert(pessoas[i]);
+}
+
+// FOR IN - executa um laço nas propriedade de um objeto
+
+var nome = "";
+var pessoa = {nome: "Iara", sobrenome: "almeida"};
+
+for (x in pessoa)
+{
+    nome += pessoa[x] + "";
+
+}
+alert(nome);

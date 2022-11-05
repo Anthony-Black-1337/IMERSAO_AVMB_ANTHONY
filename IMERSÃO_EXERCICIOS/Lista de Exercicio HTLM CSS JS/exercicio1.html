@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    Construa uma pagina com dois inputs do tipo Text (um para nome e outro para idade) e um
+    botão. Ao clicar no botão, mostre uma mensagem como esta: “Juarez tem 22 anos”.
+    <input type="text" id="nome">
+    <input type="text" id="idade">
+
+    <button onclick = "minhaFuncao()">Enviar</button>
+
+    <script>
+    function minhaFuncao()
+    {
+        var x = document.getElementById("nome").value;
+        var y = document.getElementById("idade").value;
+
+        var z = x+y;
+        alert(z);
+    }
+
+    </script>
+</body>
+</html>
