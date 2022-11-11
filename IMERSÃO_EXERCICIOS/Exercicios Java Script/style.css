@@ -1,5 +1,15 @@
+#b0{
+    background-color: #101544; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
 #b1{
-    background-color: #ff0000; /* Green */
+    background-color: #ff0000; 
     border: none;
     color: white;
     padding: 15px 32px;
@@ -9,7 +19,7 @@
     font-size: 16px;
 }
 #b2{
-    background-color: #25bb00; /* Green */
+    background-color: #25bb00;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -19,8 +29,7 @@
     font-size: 16px;
 }
 #b3{
-    background-color: #0509ff; /* Green */
-    border: none;
+    background-color: #0509ff;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -29,7 +38,7 @@
     font-size: 16px;
 }
 #b4{
-    background-color: #e5ff00; /* Green */
+    background-color: #e5ff00; 
     border: none;
     color: white;
     padding: 15px 32px;
@@ -38,10 +47,90 @@
     display: inline-block;
     font-size: 16px;
 }
-#b5{
-    background-color: #000000; /* Green */
-    border: none;
+#b11{
+    background-color: #00000079; 
+    
     color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#b22{
+    background-color: #ffffff;
+    
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#b33{
+    background-color: #0000008a;
+    color: white;
+    
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#b44{
+    background-color: #ffffff; 
+    
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#b55{
+    background-color: #00ffd58a;
+    color: rgb(0, 0, 0);
+    
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#b66{
+    background-color: #00ffd58a; 
+    
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#b77{
+    background-color: #00ffd58a;
+    color: rgb(0, 0, 0);
+    
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#b88{
+    background-color: #00ffd58a; 
+    
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#b5{
+    
+    border: none;
+    color: rgb(49, 6, 6);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;

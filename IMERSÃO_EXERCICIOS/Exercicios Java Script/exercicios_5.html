@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Exercicio 5</title>
+</head>
+<body>
+    <fieldset id = "cor">
+        <legend>Escolhas 2 ou mais adicionais:</legend>
+    
+        <div>
+          <input onclick = "func()" type="checkbox" id="strawberry" name="morango" checked>
+          <label for="strawberry">Morango</label>
+        </div>
+    
+        <div>
+          <input onclick = "func()" type="checkbox" id="grape" name="uva">
+          <label for="grape">Uva</label>
+        </div>
+        
+        <div>
+            <input onclick = "func()" type="checkbox" id="banana" name="banana_">
+            <label for="banana">Banana</label>
+        </div>
+
+        <div>
+            <input onclick = "func()" type="checkbox" id="cornflakes" name="sucrilios">
+            <label for="cornflakes">Sucrilios</label>
+        </div>
+       
+    </fieldset>
+    <div>
+        <button disable id = "b0" onclick=" acao()"> Adicionar</button>
+    </div>
+    <script>
+        function func()
+        {
+            var check = document.querySelectorAll('imput[type = "checkbox"]:ckecked').length;
+            var botao = document.getElementById("b0");
+
+            if(check >=2)
+            {
+                botao.disable = false
+                alert("");
+            }else{
+                botao.disable = true;
+            }
+        }
+        function acao()
+        {
+            alert("");
+        }
+    </script>
+   
+
+</body>
+</html>

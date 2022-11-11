@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Exercicios 6 7 8</title>
+</head>
+<body>
+    <div id = "texto">
+        
+            <h1>TEXTO TEXTO TEXTO</h1>
+            <br>
+            <p>
+                <h1>Et voluptatem soluta eos earum provident ea quos nesciunt! </h1><p>Lorem ipsum dolor sit amet. Eum dignissimos suscipitRem tempore et galisum natus id minus ipsam est quaerat enim. Sit recusandae autem <em>Quo galisum et odio enim</em>. Ut dolores voluptatemEum beatae est dolorum obcaecati et veniam similique. </p><h2>Et quia alias sed corrupti quia. </h2><p>Id dolores voluptas sed sint natus <a href="https://www.loremipzum.com" target="_blank">Qui ipsam nam nostrum maiores</a> qui consequatur vero in dolorem odio aut unde ratione! Non cumque fuga sit suscipit culpa <em>Nam suscipit in harum excepturi ea voluptas ipsa in vitae consequatur</em>. </p><ul><li>Sit reprehenderit deleniti aut rerum omnis aut soluta fugiat rem consectetur illo. </li><li>Aut itaque quaerat et ullam enim est impedit iusto. </li><li>Est sint quia sit atque ratione qui saepe fuga nam velit commodi. </li><li>Et galisum reiciendis quo voluptates repudiandae. </li><li>Id illum dolor qui adipisci rerum aut suscipit aliquid aut molestiae tempore. </li><li>Ab deserunt nisi a enim consectetur. </li></ul><blockquote cite="https://www.loremipzum.com">Ut libero doloribus eum enim necessitatibus in internos veritatis et voluptas explicabo aut sunt animi non sint dignissimos. </blockquote><pre><code>&lt;!-- Qui nemo fuga! --&gt;<br>&lt;incidunt&gt;Ut autem tempora qui incidunt incidunt et officia impedit.&lt;/incidunt&gt;<br>&lt;autem&gt;Et omnis neque est minus molestiae.&lt;/autem&gt;<br>&lt;aut&gt;Et adipisci eligendi et tempora voluptatem.&lt;/aut&gt;<br>&lt;ut&gt;Eos adipisci accusamus et commodi tempore est autem necessitatibus.&lt;/ut&gt;<br></code></pre><h3>Et quia Quis vel commodi totam. </h3><p>Est Quis obcaecati qui consequatur evenietet iusto aut quasi necessitatibus et corporis rerum. Cum voluptate laborum qui omnis consequatursit dolor non doloremque voluptatibus. </p><ol><li>Cum quis architecto ut enim rerum eum itaque labore vel voluptas beatae. </li><li>Et blanditiis omnis sit laudantium illo ut adipisci autem. </li><li>Et cumque debitis et eveniet mollitia. </li></ol><dl><dt><dfn>Id cumque iste. </dfn></dt><dd>Id placeat nobis et autem repudiandae ut minima ducimus! </dd><dt><dfn>Eos culpa reprehenderit. </dfn></dt><dd>Eos corrupti quia est ducimus odio qui quia quidem sit voluptas autem. </dd></dl>
+            </p>
+        
+
+    </div>
+
+    <button type = "button" id = "b11" onclick = "func1()"> PRETO</button>
+    <button type = "button" id = "b22" onclick = "func2()"> BRANCO</button>
+    <button type = "button" id = "b33" onclick = "func3()"> FUNDO PRETO</button>
+    <button type = "button" id = "b44" onclick = "func4()"> FUNDO BRANCO</button>
+    <button type = "button" id = "b55" onclick = "aumentar()"> +</button>
+    <button type = "button" id = "b66" onclick = "diminuir()"> -</button>
+    <button type = "button" id = "b77" onclick = "maiuscula()"> A+</button>
+    <button type = "button" id = "b88" onclick = "minuscula()"> a-</button>
+
+    <script>
+
+        var cont = 14;
+        let maior;
+        function func1()
+        {
+            document.getElementById("texto").style.color = 'black';
+        }
+        function func2()
+        {
+        document.getElementById("texto").style.color = 'white';
+        }
+        function func3()
+        {
+        document.getElementById("texto").style.background = 'black';
+        }
+        function func4()
+        {
+        document.getElementById("texto").style.background = 'white';
+        }
+        function aumentar()
+        {
+            cont = cont + 2
+		    document.getElementById("texto").style.fontSize= cont+"px";
+	        
+        }
+        function diminuir()
+        {
+            cont = cont - 2
+            document.getElementById("texto").style.fontSize= cont+"px";
+        }
+        function maiuscula()
+        {
+            
+	        document.getElementById("texto").style.textTransform ="uppercase" ;
+        }
+        function minuscula()
+        {
+            document.getElementById("texto").style.textTransform = "lowercase" ;
+        }
+
+    </script>
+</body>
+</html>
