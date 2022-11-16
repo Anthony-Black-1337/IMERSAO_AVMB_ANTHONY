@@ -1,0 +1,39 @@
+/* Modelo_Logico: */
+
+CREATE TABLE BEBES (
+    ID_bebe INTEGER PRIMARY KEY,
+    Nome VARCHAR,
+    Data_Nascimento DATE,
+    Altura FLOAT,
+    Peso_Nascimento FLOAT,
+    FK_MEDICOS_ID_medico INTEGER,
+    FK_MEDICOS__CRM INTEGER,
+    FK_MAES_ID_mae INTEGER
+);
+
+CREATE TABLE MAES (
+    ID_mae INTEGER PRIMARY KEY,
+    Nome_ VARCHAR,
+    Endereco VARCHAR,
+    Telefone DOUBLE,
+    Data_Nascimento DATE
+);
+
+CREATE TABLE MEDICOS (
+    ID_medico INTEGER,
+    _CRM INTEGER,
+    Nome VARCHAR,
+    Telefone DOUBLE,
+    Especialidade VARCHAR,
+    PRIMARY KEY (ID_medico, _CRM)
+);
+ 
+ALTER TABLE BEBES ADD CONSTRAINT FK_BEBES_2
+    FOREIGN KEY (FK_MEDICOS_ID_medico, FK_MEDICOS__CRM)
+    REFERENCES MEDICOS (ID_medico, _CRM)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE BEBES ADD CONSTRAINT FK_BEBES_3
+    FOREIGN KEY (FK_MAES_ID_mae)
+    REFERENCES MAES (ID_mae)
+    ON DELETE RESTRICT;
