@@ -4,21 +4,17 @@
   AQUI VOCÊ ENCONTRA OS EXERCICIOS FEITOS NA IMERSÃO AVMB 2022
   FEITO POR ANTHONY C. SILVA
 </p>
-<p>
-  EXERCICIOS EM C#, SQLSERVER, HTML, CSS E JS
-  
+
+<p align="left">
+  🦄 Linguagens: <strong>C#, SQL SERVER, HTML, CSS E JS .</strong>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  💼 Ferramentas: <strong>  Visual Studio 2022, pgAdmin, VsCode.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo : ⤵️
 </p>
 
 <p align="left">
