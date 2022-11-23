@@ -2,7 +2,9 @@
 
 <p align="left"> 
   AQUI VOCÊ ENCONTRA OS EXERCICIOS FEITOS NA IMERSÃO AVMB 2022
-  FEITO POR ANTHONY C. SILVA
+</p>
+<p>
+  AUTOR: ANTHONY C. SILVA
 </p>
 
 <p align="left">
