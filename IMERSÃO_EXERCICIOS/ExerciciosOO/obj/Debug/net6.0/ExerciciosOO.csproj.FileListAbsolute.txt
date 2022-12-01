@@ -1,0 +1,15 @@
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\obj\Debug\net6.0\ExerciciosOO.csproj.AssemblyReference.cache
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\obj\Debug\net6.0\ExerciciosOO.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\obj\Debug\net6.0\ExerciciosOO.AssemblyInfoInputs.cache
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\obj\Debug\net6.0\ExerciciosOO.AssemblyInfo.cs
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\obj\Debug\net6.0\ExerciciosOO.csproj.CoreCompileInputs.cache
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\bin\Debug\net6.0\ExerciciosOO.exe
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\bin\Debug\net6.0\ExerciciosOO.deps.json
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\bin\Debug\net6.0\ExerciciosOO.runtimeconfig.json
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\bin\Debug\net6.0\ExerciciosOO.dll
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\bin\Debug\net6.0\ExerciciosOO.pdb
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\obj\Debug\net6.0\ExerciciosOO.dll
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\obj\Debug\net6.0\refint\ExerciciosOO.dll
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\obj\Debug\net6.0\ExerciciosOO.pdb
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\obj\Debug\net6.0\ExerciciosOO.genruntimeconfig.cache
+G:\Meu Drive\IMERSÃO_EXERCICIOS\Exercicios Orientação a Objetos\ExerciciosOO\ExerciciosOO\obj\Debug\net6.0\ref\ExerciciosOO.dll
